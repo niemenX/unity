@@ -1,4 +1,0 @@
-repository "ProiectSofiaCuvinte@mihais121@cloud"
-  path "/"
-    br "/main"
-    co "/main"
